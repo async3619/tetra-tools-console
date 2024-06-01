@@ -5,7 +5,7 @@ members = [
     "compute",
 
     "gomen",
-    "legal-boards",
+    "legal-boards", "console",
 ]
 
 resolver = "2"
